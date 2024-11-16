@@ -1,0 +1,42 @@
+.imgClass {
+    width: 20rem;
+}
+
+.component_div {
+    display: flex;
+    margin: 1em 16em;
+    justify-content: space-evenly;
+}
+
+.component_parent {
+    margin-right: 3rem;
+}
+
+.form__element {
+    font-family: fantasy;
+    margin-bottom: 1em;
+}
+
+.form__class {
+    font-family: monospace;
+    margin-bottom: 1em;
+}
+
+.form__label {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.form__input {
+    color: #fff;
+    font-size: 2em;
+    padding: 1rem 1rem;
+    border-radius: 0.2rem;
+    background-color: rgb(199 53 53);
+    border: none;
+    width: 90%;
+}
+
+.form__text {
+    background-color: rgb(135 99 222)
+}
